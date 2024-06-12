@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  height: 100vh;
+}
+
+.leaflet-container{
+    height: 100vh;
+}
+.button_delete{
+    background-color: #f44336;
+    width: 200px;
+    height: 30px;
+    margin: 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
